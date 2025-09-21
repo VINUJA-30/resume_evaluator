@@ -1,5 +1,6 @@
 streamlit
 pdfplumber
+docx2txt
 sentence-transformers
+torch
 numpy
-
